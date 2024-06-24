@@ -18,6 +18,8 @@ EN: This project is a to do list application developed with React and TypeScript
 
 Video testando a aplicação
 
-<img src="data/video_testando_a_aplicação.mp4" alt="Teste de lista de tarefas" width="750">
+<img src="data/video_testando_a_aplicação.gif" alt="Teste de lista de tarefas" width="750">
+
+Para ver o video é so baixar o arquivo inteiro e ir na pasta "data".
 
 # DesafioReactFrontendJunior2024_Finished
